@@ -1,0 +1,20 @@
+{
+  "name": "hehe",
+  "version": "1.0.0",
+  "description": "use case for supertest.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mark Deng 2012-2016",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.2.5",
+    "should": "^7.0.2",
+    "supertest": "^1.0.1"
+  },
+  "dependencies": {
+    "benchmark": "^1.0.0",
+    "express": "^4.13.3"
+  }
+}

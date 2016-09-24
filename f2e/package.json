@@ -1,0 +1,15 @@
+{
+  "name": "f2e",
+  "version": "1.0.0",
+  "description": "",
+  "main": "appBro.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha-phantomjs index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha-phantomjs": "^3.6.0",
+    "phantomjs": "^1.9.7-15"
+  }
+}
